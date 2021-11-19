@@ -1,2 +1,2 @@
-# Stock-Visualizer
-# Stock-Visualizer
+# Quadratic-Equation-Solver
+
